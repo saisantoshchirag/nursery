@@ -1,7 +1,7 @@
-# Django Auth Tutorial source code
-
-Accompanies the three-part series on [LearnDjango](https://learndjango.com).
-
-- [Part 1: Login/Logout](https://learndjango.com/tutorials/django-login-and-logout-tutorial)
-- [Part 2: Signup](https://learndjango.com/tutorials/django-signup-tutorial)
-- [Part 3: Password Reset](https://learndjango.com/tutorials/django-password-reset-tutorial)
+A django web application for Nurseries, where nurseries can add plants, users can buy plants. Implemented with Django REST.
+API links:
+http://127.0.0.1:8000/plants/view
+http://127.0.0.1:8000/plants/view/Mango  (Mango is a variable)
+http://127.0.0.1:8000/orders/post
+http://127.0.0.1:8000/accounts/register/view
+http://127.0.0.1:8000/orders/view/Jingle (Jingle is the name of a nursery, it is a variable)
